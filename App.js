@@ -8,11 +8,8 @@
 
 import React, { useEffect, useState } from 'react';
 import {
-  SafeAreaView,
   StyleSheet,
   ScrollView,
-  ActivityIndicator,
-  FlatList,
   View,
   Text,
   StatusBar,
