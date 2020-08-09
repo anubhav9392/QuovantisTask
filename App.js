@@ -60,7 +60,7 @@ export default function app() {
                           }}
                           activeOpacity={0.9}>
                           <View >
-                          <Card style={{padding: 10, margin: 3, backgroundColor: category.colorCode }}>
+                          <Card style={{padding: 10, margin: 3}}>
                             <Text style={[styles.subheading]}>{subCategoryname}</Text>
 
                             {items.map((items) => (
